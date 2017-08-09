@@ -1,0 +1,7 @@
+name: "notebook-alrm"
+output_dir: "."
+navbar:
+  title: "Notebook of ALRM"
+  left:
+    - text: "Chapter1"
+      href: test.html

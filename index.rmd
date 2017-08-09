@@ -1,0 +1,5 @@
+---
+title: "Notebook of ALRM"
+---
+
+This is a notebook for reading the book "Applied Linear Regression Models (4th edition)".
