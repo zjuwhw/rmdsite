@@ -1,7 +1,7 @@
-name: "notebook-alrm"
+name: "rmdsite-test"
 output_dir: "."
 navbar:
-  title: "Notebook of ALRM"
+  title: "rmd website"
   left:
-    - text: "Chapter1"
+    - text: "test"
       href: test.html

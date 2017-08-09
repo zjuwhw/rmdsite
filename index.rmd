@@ -1,5 +1,5 @@
 ---
-title: "Notebook of ALRM"
+title: "Rmarkdown website test"
 ---
 
-This is a notebook for reading the book "Applied Linear Regression Models (4th edition)".
+This is a test website writtern by [rmarkdown](http://rmarkdown.rstudio.com/rmarkdown_websites.html).
